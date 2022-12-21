@@ -1,0 +1,124 @@
+/* Common Modals Style */
+.label-form-modal{
+    font: normal normal normal 14px/22px 'Roboto-Regular';
+    margin-bottom: 4px;
+    color: var(--dark-blue);
+
+}
+input[type="text"] , textarea  {
+    border:1px solid var(--light-gray);
+    font: normal normal normal 14px/22px 'Roboto-Regular';
+    border-radius: 4px;
+    box-shadow: none;
+    padding: 12px;
+}
+
+ input[type="text"]:focus, textarea:focus{
+    outline: none !important;
+    box-shadow: none !important;
+    border:1px solid var(--light-gray) !important;
+ }
+
+input[type="text"]{
+    height: 40px;
+}
+
+input[type="text"]::placeholder , textarea::placeholder{
+    font: normal normal normal 12px/22px 'Roboto-Regular';
+    color: var(--place-holder) !important; 
+}
+
+.textarea-form-modal {
+    outline: none !important;
+    border:1px solid var(--light-gray);
+    font: normal normal normal 14px/22px 'Roboto-Regular';
+    border-radius: 4px;
+    box-shadow: none !important;
+    padding: 12px;
+}
+
+/*-------------------------- New File Upload Modal */
+.upload-box{
+    border: 2px dashed #C6C6C6;
+    border-radius: 4px;
+    height: 43px;
+    background-color: #F9F9F9;
+}
+.upload-box-label{
+    font: normal normal 13px/18px  'Roboto-Medium' !important;
+    color: var(--dark-gray);
+    margin-bottom: 0;
+    
+}
+input[type="file"] {
+    position: absolute;
+    z-index: -1;
+    top: 10px;
+    left: 8px;
+    font-size: 17px;
+    color: #b8b8b8;
+  }
+
+  .button-link {
+    display: inline-block;
+    color: var(--medium-blue);
+    cursor: pointer;
+   
+  }
+  .uploaded-files-box{
+    padding: 10px;
+    background-color: #EAF2F7;
+    border-radius: 4px;
+  }
+  .file-info{
+    font: normal normal normal 12px/16px 'Roboto-Regular';
+    color: var(--dark-blue);
+  }
+  .progress{
+    height: 0.5rem;
+  }
+
+  .link-click{
+    cursor: pointer;
+    font: normal normal normal 14px/22px 'Roboto-Regular';
+    color: var(--dark-blue);
+  }
+.addfiles-btn{
+    padding: 8px 34px;
+    background-color: var(--medium-blue);
+    color: #fff;
+    border-radius: 4px;
+    border:  none !important;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  /* ------------ send offer letter  */
+.header-offer-letter{
+    font: normal normal 18px/19px 'Roboto-Medium';
+    color: var(--dark-gray);
+}
+.btn-close{
+    background:url('../../../../public/images/icons/close.svg') no-repeat center center ;
+}  
+.modal-lg > div {
+    padding:20px ;
+}
+.pb-16{
+  padding-bottom: 16px !important;
+}
+.sender-title{
+font: normal normal 14px/19px 'Roboto-Medium';
+color: #091E42;
+margin-bottom: 5px;
+}
+.sender-info{
+font: normal normal normal 13px/23px 'Roboto-Regular';
+letter-spacing: 0px;
+color: var(--dark-gray);
+margin-bottom: 0;
+}
+.sender-info span{
+  color:#A7A7A7;
+}
+

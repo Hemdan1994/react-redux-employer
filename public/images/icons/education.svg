@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.751" height="21.819" viewBox="0 0 19.751 21.819">
+  <g id="education" transform="translate(-4.017 3.989)">
+    <g id="Marketing" transform="translate(4.731 -3.275)">
+      <g id="Desk" transform="translate(0 0)">
+        <path id="Rectangle-1624" d="M9,32v4.76a12.831,12.831,0,0,0,6.224,1.465,12.831,12.831,0,0,0,6.224-1.465V32l-6.427,2.659Z" transform="translate(-5.972 -20.915)" fill="#99bcf5" stroke="#156bf5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" fill-rule="evenodd"/>
+        <path id="Rectangle-1623" d="M.035.508C-.089.123.124-.088.508.035L9.2,2.837a1.606,1.606,0,0,1,.922.922l2.8,8.689c.124.385-.088.6-.472.472l-8.689-2.8A1.606,1.606,0,0,1,2.837,9.2Z" transform="translate(0 9.162) rotate(-45)" fill="none" stroke="#156bf5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" fill-rule="evenodd"/>
+        <path id="Line" d="M39,34v6.591" transform="translate(-24.988 -22.183)" fill="none" stroke="#156bf5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" fill-rule="evenodd"/>
+        <circle id="Oval-1441" cx="1.098" cy="1.098" r="1.098" transform="translate(12.914 18.408)" fill="none" stroke="#156bf5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Line-2" data-name="Line" d="M10,25.732,11.465,25" transform="translate(-6.606 -16.478)" fill="none" stroke="#156bf5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" fill-rule="evenodd"/>
+        <path id="Line-3" data-name="Line" d="M14,27.732,15.465,27" transform="translate(-9.142 -17.746)" fill="none" stroke="#156bf5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

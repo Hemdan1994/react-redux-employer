@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12.03" height="12.03" viewBox="0 0 12.03 12.03">
+  <g id="reject_candidate" data-name="reject candidate" transform="translate(-0.361 -30.575)">
+    <g id="Ellipse_724" data-name="Ellipse 724" transform="translate(0.361 30.575)" fill="none" stroke="#f00505" stroke-width="0.75">
+      <circle cx="6.015" cy="6.015" r="6.015" stroke="none"/>
+      <circle cx="6.015" cy="6.015" r="5.64" fill="none"/>
+    </g>
+    <path id="Path_53477" data-name="Path 53477" d="M0,0V5.193" transform="translate(4.54 34.919) rotate(-45)" fill="none" stroke="#f00505" stroke-linecap="round" stroke-width="0.75"/>
+    <path id="Path_53478" data-name="Path 53478" d="M0,0V5.193" transform="translate(8.212 34.919) rotate(45)" fill="none" stroke="#f00505" stroke-linecap="round" stroke-width="0.75"/>
+  </g>
+</svg>

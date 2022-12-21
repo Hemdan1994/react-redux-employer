@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15.985" height="11.191" viewBox="0 0 15.985 11.191">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9337" data-name="Rectangle 9337" width="15.985" height="11.191" rx="1" transform="translate(710.326 323)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Email" transform="translate(-710.326 -323)" clip-path="url(#clip-path)">
+    <g id="XMLID_1_" transform="translate(710.326 323)">
+      <path id="XMLID_869_" d="M0,127.5v5.863l4.188-2.722Z" transform="translate(0 -124.803)" fill="#4e4e4e"/>
+      <path id="XMLID_870_" d="M299.388,133.363V127.5l-4.188,3.141Z" transform="translate(-283.403 -124.803)" fill="#4e4e4e"/>
+      <path id="XMLID_871_" d="M7.993,227.355l-2.783-2.087L0,228.654v1.2H15.985v-1.2l-5.209-3.386Z" transform="translate(0 -218.663)" fill="#4e4e4e"/>
+      <path id="XMLID_872_" d="M0,61.2l7.993,5.994L15.985,61.2V60H0Z" transform="translate(0 -60)" fill="#4e4e4e"/>
+    </g>
+  </g>
+</svg>

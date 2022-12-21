@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.875" height="17.687" viewBox="0 0 25.875 17.687">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9341" data-name="Rectangle 9341" width="25.875" height="17.687" rx="2" transform="translate(0 0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="emailer" clip-path="url(#clip-path)">
+    <g id="email-svgrepo-com_1_" data-name="email-svgrepo-com (1)" transform="translate(-0.328 0)">
+      <g id="Group_25078" data-name="Group 25078" transform="translate(0 0)">
+        <g id="Group_25077" data-name="Group 25077">
+          <path id="Path_67220" data-name="Path 67220" d="M31.753,257.8l-2.367,2.011a.506.506,0,0,1-.649,0l-2.367-2.005-9.67,8.173H41.38Z" transform="translate(-15.797 -248.238)" fill="#d0d5ea"/>
+          <path id="Path_67221" data-name="Path 67221" d="M0,92.2v16.518l9.735-8.259Z" transform="translate(0 -91.589)" fill="#d0d5ea"/>
+          <path id="Path_67222" data-name="Path 67222" d="M16.7,80.9,29.04,91.37,41.38,80.9Z" transform="translate(-15.797 -80.9)" fill="#156bf5"/>
+          <path id="Path_67223" data-name="Path 67223" d="M309.9,100.459l9.735,8.259V92.2Z" transform="translate(-293.15 -91.589)" fill="#d0d5ea"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

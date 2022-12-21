@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.414" height="19.647" viewBox="0 0 19.414 19.647">
+  <g id="schedule_" data-name="schedule " transform="translate(-0.188)">
+    <g id="Group_24820" data-name="Group 24820" transform="translate(0.188 0)">
+      <path id="Path_67046" data-name="Path 67046" d="M19.6,3.072a1.343,1.343,0,0,0-1.343-1.343H15.985V.548A.548.548,0,0,0,15.437,0H14.253A.549.549,0,0,0,13.7.548V1.73H6.161V.548A.548.548,0,0,0,5.613,0h-1.1a.548.548,0,0,0-.548.548V1.73H1.531A1.343,1.343,0,0,0,.188,3.073V7.86H.9V18.267a1.381,1.381,0,0,0,1.381,1.381H17.434a1.38,1.38,0,0,0,1.381-1.381V7.859H19.6l0-4.787ZM16.614,15.987a1.38,1.38,0,0,1-1.381,1.381H4.556a1.381,1.381,0,0,1-1.381-1.381V7.859H16.613v8.128Z" transform="translate(-0.188 0)" fill="#42526e"/>
+      <rect id="Rectangle_9028" data-name="Rectangle 9028" width="2.2" height="2.28" transform="translate(4.873 9.352)" fill="#42526e"/>
+      <rect id="Rectangle_9029" data-name="Rectangle 9029" width="2.2" height="2.28" transform="translate(8.645 9.352)" fill="#42526e"/>
+      <rect id="Rectangle_9030" data-name="Rectangle 9030" width="2.201" height="2.28" transform="translate(12.417 9.352)" fill="#42526e"/>
+      <rect id="Rectangle_9031" data-name="Rectangle 9031" width="2.2" height="2.279" transform="translate(4.873 13.36)" fill="#42526e"/>
+      <rect id="Rectangle_9032" data-name="Rectangle 9032" width="2.2" height="2.279" transform="translate(8.645 13.36)" fill="#42526e"/>
+      <rect id="Rectangle_9033" data-name="Rectangle 9033" width="2.201" height="2.279" transform="translate(12.417 13.36)" fill="#42526e"/>
+    </g>
+  </g>
+</svg>

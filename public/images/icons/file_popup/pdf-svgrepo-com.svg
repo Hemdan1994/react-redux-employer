@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="23.999" viewBox="0 0 21 23.999">
+  <g id="pdf-svgrepo-com" transform="translate(-32)">
+    <path id="Path_59928" data-name="Path 59928" d="M97.5,0A1.5,1.5,0,0,0,96,1.5v21A1.5,1.5,0,0,0,97.5,24h15a1.5,1.5,0,0,0,1.5-1.5V6l-6-6Z" transform="translate(-61)" fill="#e2e5e7"/>
+    <path id="Path_59929" data-name="Path 59929" d="M353.5,6H358l-6-6V4.5A1.5,1.5,0,0,0,353.5,6Z" transform="translate(-305)" fill="#b0b7bd"/>
+    <path id="Path_59930" data-name="Path 59930" d="M388.5,132.5,384,128h4.5Z" transform="translate(-335.5 -122)" fill="#cad1d8"/>
+    <path id="Path_59931" data-name="Path 59931" d="M50,248.25a.752.752,0,0,1-.75.75H32.75a.752.752,0,0,1-.75-.75v-7.5a.752.752,0,0,1,.75-.75h16.5a.752.752,0,0,1,.75.75Z" transform="translate(0 -228.75)" fill="#f15642"/>
+    <g id="Group_17823" data-name="Group 17823" transform="translate(35.269 13.796)">
+      <path id="Path_59932" data-name="Path 59932" d="M101.744,294.734a.413.413,0,0,1,.407-.414h1.385a1.5,1.5,0,0,1,0,3h-1v.792a.376.376,0,0,1-.384.413.4.4,0,0,1-.407-.413Zm.791.341v1.494h1a.747.747,0,0,0,0-1.494Z" transform="translate(-101.744 -294.32)" fill="#fff"/>
+      <path id="Path_59933" data-name="Path 59933" d="M188.238,299.622a.375.375,0,0,1-.414-.371v-3.406a.408.408,0,0,1,.414-.372h1.373c2.74,0,2.68,4.15.054,4.15Zm.378-3.418v2.686h1c1.619,0,1.691-2.686,0-2.686Z" transform="translate(-183.789 -295.418)" fill="#fff"/>
+      <path id="Path_59934" data-name="Path 59934" d="M287.92,296.237v.953h1.529a.464.464,0,0,1,.432.425.417.417,0,0,1-.432.36H287.92v1.259a.355.355,0,0,1-.359.371.381.381,0,0,1-.425-.371v-3.406a.379.379,0,0,1,.425-.372h2.105a.374.374,0,0,1,.42.372.414.414,0,0,1-.42.408H287.92Z" transform="translate(-278.446 -295.403)" fill="#fff"/>
+    </g>
+    <path id="Path_59935" data-name="Path 59935" d="M110.25,416.75H96v.75h14.25a.752.752,0,0,0,.75-.75V416A.752.752,0,0,1,110.25,416.75Z" transform="translate(-61 -396.5)" fill="#cad1d8"/>
+  </g>
+</svg>
