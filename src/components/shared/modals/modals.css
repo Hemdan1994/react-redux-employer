@@ -211,6 +211,7 @@ color: #42526E;
   transform: rotate(-90deg);
   width: 10px;
   background-size: contain;
+  top: 6px;
 }
 
 .accordion-button:not(.collapsed)::after{
@@ -222,6 +223,24 @@ color: #42526E;
   height: 300px;
   overflow-y: scroll;
 }
+.template-title{
+  font: normal normal normal 14px/19px 'Roboto-Regular';
+letter-spacing: 0px;
+color: var(--dark-gray);
+margin-bottom: 14px;
+}
+.template-title span{
+  font: normal normal  12px/16px 'Roboto-Light';
+letter-spacing: 0px;
+color: var(--dark-gray);
+}
+.form-check-label{
+  font: normal normal normal 14px/19px 'Roboto-Regular';
+letter-spacing: 0px;
+color: var(--dark-gray);
+}
+
+
 
 /* Scroll BAR */
 /* width */
