@@ -3,6 +3,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import './notification.css';
+import { Dropdown } from 'react-bootstrap';
 
 
 function NavigationBar() {
@@ -21,13 +22,41 @@ function NavigationBar() {
             
           </Nav>
           <Nav className='ms-auto'>
-            <NavDropdown title="{UserMenu}" id="basic-nav-dropdown" >
-                <NavDropdown.Item header className='username'>Dr Job Pro</NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.2">Manage Jobs</NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.3">My company Profile</NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.4">Change Password</NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.4">Logout</NavDropdown.Item>
-              </NavDropdown>
+          <Dropdown>
+                <Dropdown.Toggle id="dropdown-basic" className='e-caret-hide' >
+                    <img src='./images/icons/notifications/notification.svg' width='16px' height='16px' />
+                </Dropdown.Toggle>
+
+                <Dropdown.Menu align="end" className='icon_notification' >
+                    <Dropdown.Item href="#">
+                        <div className='d-flex'>
+                            <div><img src='./images/icons/notifications/icon_following.svg' width='16px' height='16px' /></div>
+                            <div>
+                                <b>User started following you</b>
+                                <p>Luffy started following you employer na…</p>
+                            </div>
+                        </div>
+                    </Dropdown.Item>
+                    <Dropdown.Item href="#action/3.2">Manage Jobs</Dropdown.Item>
+                    <Dropdown.Item href="#action/3.3">My company Profile</Dropdown.Item>
+                    <Dropdown.Item href="#action/3.4">Change Password</Dropdown.Item>
+                    <Dropdown.Item href="#action/3.4">Logout</Dropdown.Item>
+                </Dropdown.Menu>
+            </Dropdown>
+            <Dropdown>
+                <Dropdown.Toggle id="dropdown-basic" className='e-caret-hide' >
+                    <img src='./images/icons/notifications/icon_account.svg' width='16px' height='16px' />
+                </Dropdown.Toggle>
+
+                <Dropdown.Menu align="end" >
+                    <Dropdown.Item header className='username'>Dr Job Pro</Dropdown.Item>
+                    <Dropdown.Item href="#action/3.2">Manage Jobs</Dropdown.Item>
+                    <Dropdown.Item href="#action/3.3">My company Profile</Dropdown.Item>
+                    <Dropdown.Item href="#action/3.4">Change Password</Dropdown.Item>
+                    <Dropdown.Item href="#action/3.4">Logout</Dropdown.Item>
+                </Dropdown.Menu>
+            </Dropdown>
+            
           </Nav>
         </Navbar.Collapse>
       </Container>
