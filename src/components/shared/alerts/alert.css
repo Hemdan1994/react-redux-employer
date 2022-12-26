@@ -51,6 +51,6 @@
 }
 .toast.success_custom .toast-header {
     background: #EDF5F2;
-    border-radius: 8px;
+    border-radius: 8px !important;
 }
 .toast.success_custom button{ display: none;}
