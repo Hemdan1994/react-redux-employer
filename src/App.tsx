@@ -2,12 +2,12 @@ import React from 'react';
 import logo from './logo.svg';
 import { Counter } from './features/counter/Counter';
 import './App.css';
-import FileUpload from './components/shared/modals/NewFileUpload';
+import EmailNotification from './components/shared/notification/EmailNotification';
 
 function App() {
   return (
     <div className="App">
-     <FileUpload/>
+     <EmailNotification/>
     </div>
   );
 }
