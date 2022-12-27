@@ -14,7 +14,7 @@ function SuccessAlert() {
         <Toast onClose={() => setShow(false)} show={show} bg="success">
           <Toast.Header>
           <div className='me-3'>
-            <img src='./images/icons/toast-message/tick.svg' className='mr-3'/>
+            <img alt='toast message' src='./images/icons/toast-message/tick.svg' className='mr-3'/>
           </div>
           <div>
             <h5 className="me-auto">Successfully Moved</h5>
