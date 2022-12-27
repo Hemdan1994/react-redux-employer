@@ -2,12 +2,12 @@ import React from 'react';
 import logo from './logo.svg';
 import { Counter } from './features/counter/Counter';
 import './App.css';
-import EmailNotification from './components/shared/notification/EmailNotification';
+import EmptyNotification from './components/shared/notification/EmptyNotification';
 
 function App() {
   return (
     <div className="App">
-     <EmailNotification/>
+     <EmptyNotification/>
     </div>
   );
 }

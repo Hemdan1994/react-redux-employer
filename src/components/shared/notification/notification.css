@@ -28,11 +28,55 @@ a.username.dropdown-item {
 }
 #dropdown-basic ~ .dropdown-menu.show:after {
     content: '';
-    background: #156BF5;
+    background: var(--medium-blue);
     width: 20px;
     height: 3px;
     position: absolute;
     top: -3px;
     right: 9px;
     border-radius: 18px 16px 0px 5px;
+}
+.notify_text {
+    line-height: normal;
+    color: var(--dark-blue);
+}
+.notify_text b {
+    font-family: 'Roboto-Medium';
+    color: var(--dark-black);
+}
+.notify_text p {
+    color: var(--dark-blue);
+    margin-bottom: 0;
+}
+.icon_notification .notify_content {
+    border-bottom: 1px solid var(--light-gray);
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.icon_notification.dropdown-menu {
+    padding: 15px 0;
+    width: 288px;
+}
+span.indicate {
+    position: absolute;
+    background: #D40808;
+    width: 8px;
+    height: 8px;
+    top: 10px;
+    right: 11px;
+    border-radius: 10px;
+    border: 1px solid #F9F9F9;
+}
+span.indicate.blue {
+    background: #595275;
+}
+.icon_notification.empty .empty_notification  {
+    height: 114px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.empty_notification p {
+    color: #637798;
+    line-height: 18px;
 }
