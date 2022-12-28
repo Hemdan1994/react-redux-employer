@@ -8,6 +8,9 @@ import React from 'react';
 // import VerifyMail from './components/shared/alerts/Verify';
 // import ReverifyMail from './components/shared/alerts/Reverify';
 // import SuccessAlert from './components/shared/alerts/Succuess';
+import BluePopup from './components/shared/popupValidation/BluePopup';
+import GreenPopup from './components/shared/popupValidation/GreenPopup';
+import RedPopup from './components/shared/popupValidation/RedPopup';
 
 
    
@@ -29,6 +32,11 @@ function App() {
      <VerifyMail/>
      <ReverifyMail/>
      <SuccessAlert/> */}
+
+     {/* Popup validation */}
+     {/* <BluePopup/> */}
+     {/* <GreenPopup/> */}
+     {/* <RedPopup/> */}
 
     </div>
   );
