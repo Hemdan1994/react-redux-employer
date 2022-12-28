@@ -25,7 +25,7 @@ function App() {
       <h2> welcome to DrJobs ... to show shared components type in url /sharedComponents</h2>
       <BrowserRouter>
         <Routes>
-          <Route path='/sharedComponets' element={<Shared/>}/>
+          <Route path='/sharedComponents' element={<Shared/>}/>
         </Routes>
       </BrowserRouter>
       {/* Modals */}
