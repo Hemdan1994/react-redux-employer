@@ -1,5 +1,5 @@
 import React from 'react';
-import PipeLineCard from './components/shared/pipelineCard/PipeLineCard';
+// import PipeLineCard from './components/shared/pipelineCard/PipeLineCard';
 // import FileUpload from './components/shared/modals/NewFileUpload';
 // import OfferLetterModal from './components/shared/modals/SendingOfferLetter';
 // import ImportTemplate from './components/shared/modals/ImportTemplates';
@@ -35,7 +35,7 @@ function App() {
       {/* <EmptyNotification/> */}
 
       {/* PipeLine Card */}
-      <PipeLineCard/>
+      {/* <PipeLineCard/> */}
 
     </div>
   );
