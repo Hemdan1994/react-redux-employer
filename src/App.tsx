@@ -1,4 +1,5 @@
 import React from 'react';
+import TalentPool from './components/shared/talentPool/TalentPool';
 // import FileUpload from './components/shared/modals/NewFileUpload';
 // import OfferLetterModal from './components/shared/modals/SendingOfferLetter';
 // import ImportTemplate from './components/shared/modals/ImportTemplates';
@@ -29,6 +30,8 @@ function App() {
      <VerifyMail/>
      <ReverifyMail/>
      <SuccessAlert/> */}
+
+     <TalentPool />
 
     </div>
   );
