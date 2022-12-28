@@ -1,4 +1,6 @@
 import React from 'react';
+import { BrowserRouter , Routes , Route } from 'react-router-dom';
+import Shared from './components/Shared';
 // import PipeLineCard from './components/shared/pipelineCard/PipeLineCard';
 // import FileUpload from './components/shared/modals/NewFileUpload';
 // import OfferLetterModal from './components/shared/modals/SendingOfferLetter';
@@ -19,6 +21,13 @@ import React from 'react';
 function App() {
   return (
     <div >
+
+      <h2> welcome to DrJobs ... to show shared components type in url /sharedComponents</h2>
+      <BrowserRouter>
+        <Routes>
+          <Route path='/sharedComponets' element={<Shared/>}/>
+        </Routes>
+      </BrowserRouter>
       {/* Modals */}
         {/* <FileUpload/>
         <OfferLetterModal/>
