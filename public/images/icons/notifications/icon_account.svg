@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_579" data-name="Ellipse 579" cx="8" cy="8" r="8" transform="translate(0 0)" fill="#ced4dd"/>
+    </clipPath>
+  </defs>
+  <g id="icon_account" transform="translate(-8118 -1581)">
+    <circle id="Ellipse_578" data-name="Ellipse 578" cx="8" cy="8" r="8" transform="translate(8118 1581)" fill="#ced4dd"/>
+    <g id="Mask_Group_56" data-name="Mask Group 56" transform="translate(8118 1581)" clip-path="url(#clip-path)">
+      <g id="user-svgrepo-com" transform="translate(2.474 4.576)">
+        <path id="Path_52509" data-name="Path 52509" d="M22.251,10.774v-.616a2.057,2.057,0,0,0-.784-1.613,17.737,17.737,0,0,0-2.712-1.71v-.7a3.41,3.41,0,0,0,.2-.6c.3-.109.469-.554.58-.948.149-.524.133-.891-.043-1.094a2.832,2.832,0,0,0-.244-2.205,1.085,1.085,0,0,0-.538-.386A1.984,1.984,0,0,0,18.058.32,2.335,2.335,0,0,0,16.847,0c-.081,0-.161,0-.232.009a2.217,2.217,0,0,0-.59.111l-.007,0A2.624,2.624,0,0,0,15.4.441a3.284,3.284,0,0,0-.623.516,2.592,2.592,0,0,0-.7,1.225,2.3,2.3,0,0,0-.024,1.1.55.55,0,0,0-.114.109c-.163.216-.171.554-.026,1.068a1.67,1.67,0,0,0,.457.881,3.224,3.224,0,0,0,.327.926v.571a17.544,17.544,0,0,0-2.712,1.71A2.054,2.054,0,0,0,11.2,10.16v.616a.806.806,0,0,0,.805.805h9.44A.808.808,0,0,0,22.251,10.774Z" transform="translate(-11.2)" fill="#efefef"/>
+      </g>
+    </g>
+  </g>
+</svg>

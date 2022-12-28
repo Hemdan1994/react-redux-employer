@@ -1,4 +1,5 @@
 import React from 'react';
+import PipeLineCard from './components/shared/pipelineCard/PipeLineCard';
 // import FileUpload from './components/shared/modals/NewFileUpload';
 // import OfferLetterModal from './components/shared/modals/SendingOfferLetter';
 // import ImportTemplate from './components/shared/modals/ImportTemplates';
@@ -29,6 +30,12 @@ function App() {
      <VerifyMail/>
      <ReverifyMail/>
      <SuccessAlert/> */}
+
+     {/* Notifications */}
+      {/* <EmptyNotification/> */}
+
+      {/* PipeLine Card */}
+      <PipeLineCard/>
 
     </div>
   );

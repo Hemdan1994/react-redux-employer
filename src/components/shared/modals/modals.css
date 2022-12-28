@@ -278,3 +278,15 @@ color: var(--dark-gray);
   padding-left: 25px;
 }
 
+
+
+.form-check-input{
+  border: 1px solid #D8DDE4;
+border-radius: 2px;
+}
+.form-check-input:hover , .form-check-input:checked ,.form-check-input:visited {
+outline: none;
+box-shadow: none;
+/* background-color: transparent; */
+}
+
